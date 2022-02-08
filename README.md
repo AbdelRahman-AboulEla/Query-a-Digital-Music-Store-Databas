@@ -9,9 +9,9 @@ This project is done using SQLite.
 
 ### Usage
 
-First, link the database with SQLite or any relational database management system.
-Second, copy and past the query from the Queries file.
-Third, extract the query result in excel file to draw the graph.
+- First, link the database with SQLite or any relational database management system.
+- Second, copy and past the query from the Queries file.
+- Third, extract the query result in excel file to draw the graph.
 
 You can find my result in the pdf report.
 
